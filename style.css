@@ -1,0 +1,25 @@
+.heading {
+    color:chartreuse;
+    font-size: 25px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px red;
+    width: 100%;
+
+}
+.steps {
+    font-size: 15px;
+    color:gainsboro;
+}
+.footer {
+    color:rgb(209, 129, 23);
+    bottom: 0;
+    position: fixed;
+    line-height: 2;
+    font-weight:bolder
+}
+canvas {
+    box-shadow: 5px 5px 5px khaki;
+    border-radius: 20px;
+    border: 3px solid thistle;
+     
+}
